@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="1">
+    <se lang="abaza" variant_id="0">Адауышвара</se>
+    <se lang="russian" variant_id="1">Тишина</se>
+  </para>
+  <para id="2">
+    <se lang="abaza" variant_id="0">Адауышвара апны йгӀаншитӀ</se>
+    <se lang="russian" variant_id="1">Тебе я исповедь,</se>
+  </para>
+  <para id="3">
+    <se lang="abaza" variant_id="0">Сгвы йгӀалцӀуа асатырква.</se>
+    <se lang="russian" variant_id="1">Рожденную в тиши,</se>
+  </para>
+  <para id="4">
+    <se lang="abaza" variant_id="0">Ауат сгӀарыпхьарныс сшвитӀ</se>
+    <se lang="russian" variant_id="1">Сумею высказать</se>
+  </para>
+  <para id="5">
+    <se lang="abaza" variant_id="0">АуагӀа рпахь сгӀагылта.</se>
+    <se lang="russian" variant_id="1">Лишь голосом души.</se>
+  </para>
+  <para id="6">
+    <se lang="abaza" variant_id="0">ЙшгӀаквцӀуабыргдза ажва спыкв</se>
+    <se lang="russian" variant_id="1">Заветных слов моих</se>
+  </para>
+  <para id="7">
+    <se lang="abaza" variant_id="0">Йачвыдзуазшва йызбитӀ цӀакӀыракӀ.</se>
+    <se lang="russian" variant_id="1">Не слышно, милый мой?</se>
+  </para>
+  <para id="8">
+    <se lang="abaza" variant_id="0">Гвыла урыпхьа гвыла йзгӀвыз</se>
+    <se lang="russian" variant_id="1">Но ты сумеешь их</se>
+  </para>
+  <para id="9">
+    <se lang="abaza" variant_id="0">Сызчвпхащауа ссатырква…</se>
+    <se lang="russian" variant_id="1">Услышать — лишь душой.</se>
+  </para>
+</body>
+</html>

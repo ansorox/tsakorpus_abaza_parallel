@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="1">
+    <se lang="abaza" variant_id="0">Шварах</se>
+    <se lang="russian" variant_id="1">Олени </se>
+  </para>
+  <para id="2">
+    <se lang="abaza" variant_id="0">Абна йылапӀ гӀвшварахкӀ,</se>
+    <se lang="russian" variant_id="1">В лесу живут два оленя, </se>
+  </para>
+  <para id="3">
+    <se lang="abaza" variant_id="0">МгӀващкӀ апны ауат апшӀахтӀ.</se>
+    <se lang="russian" variant_id="1">Они столкнулись на одной тропинке. </se>
+  </para>
+  <para id="4">
+    <se lang="abaza" variant_id="0">АгӀвшварахкӀгьи тӀыкъхӀва йгылтӀ,</se>
+    <se lang="russian" variant_id="1">Оба оленя остановились как вкопанные, </se>
+  </para>
+  <para id="5">
+    <se lang="abaza" variant_id="0">РычӀвгӀва дуква апшӀадыргылтӀ.</se>
+    <se lang="russian" variant_id="1">Направили друг на друга свои огромные рога. </se>
+  </para>
+  <para id="6">
+    <se lang="abaza" variant_id="0">АгӀвайрышдукӀ ашӀахат|,</se>
+    <se lang="russian" variant_id="1">Два упрямца сцепились, </se>
+  </para>
+  <para id="7">
+    <se lang="abaza" variant_id="0">РычӀвгӀва хахаква алахатГ.</se>
+    <se lang="russian" variant_id="1">Заплелись их ветвистые рога.</se>
+  </para>
+  <para id="8">
+    <se lang="abaza" variant_id="0">Абауаъа ауат рчвыдзтӀ,</se>
+    <se lang="russian" variant_id="1">Вот так они их и потеряли,</se>
+  </para>
+  <para id="9">
+    <se lang="abaza" variant_id="0">ШӀыц гӀайыхындзкӀьа йамхъаквыдзтӀ.</se>
+    <se lang="russian" variant_id="1">И были обижены друг на друга, пока не выросли новые.</se>
+  </para>
+</body>
+</html>
