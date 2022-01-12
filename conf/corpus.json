@@ -32,15 +32,14 @@
         {"type": "option", "name": "genre", "value": "fiction", "text": "fiction"},
         {"type": "option", "name": "genre", "value": "nonfiction", "text": "non-fiction"},
         {"type": "option", "name": "genre", "value": "poetry", "text": "poetry"}
-      ]
+      ],
       [
         {"type": "input_text", "name": "subgenre", "placeholder": "Subgenre"},
-
-        {"type": "option", "name": "genre", "value": "children's", "text": "children's"}
+        {"type": "option", "name": "genre", "value": "children's", "text": "children's"},
         {"type": "option", "name": "genre", "value": "essay", "text": "essay"},
         {"type": "option", "name": "genre", "value": "play", "text": "play"},
         {"type": "option", "name": "genre", "value": "press", "text": "press"},
-        {"type": "option", "name": "genre", "value": "story", "text": "story"},
+        {"type": "option", "name": "genre", "value": "story", "text": "story"}
       ]
     ],
     "stat_options": [
