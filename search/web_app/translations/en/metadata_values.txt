@@ -1,5 +1,6 @@
 F	F
 M	M
+children's	children's literature
 complete	completely, but ambiguously
 dialogue	dialogue
 essay	essay
@@ -15,6 +16,7 @@ nonfiction	non-fiction
 novel	novel
 oral	oral
 original	original
+play	play
 poetry	poetry
 press	press
 prose	prose

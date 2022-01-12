@@ -33,13 +33,13 @@
 						</div>
 					</div>
 					<div class="settings_column">
-						<div class="row">
+						<!-- <div class="row">
 							<label for="viewing_mode" class="col-sm-6 col-form-label">{{ _('Viewing mode:') }}</label>
 							<select name="viewing_mode" id="viewing_mode" class="search_input">
 								<option value="standard" {% if default_view == "standard" %}selected{% endif %}>{{ _('view_standard') }}</option>
 								<option value="glossed" {% if default_view == "glossed" %}selected{% endif %}>{{ _('view_glossed') }}</option>
 							</select>
-						</div>
+						</div> -->
 						{% if transliterations and transliterations|length > 1 %}
 						<div class="row">
 							<label for="translit" class="col-sm-6 col-form-label">{{ _('Transliteration: ') }}</label>
@@ -61,7 +61,7 @@
 						</div>
 						{% endif %}
 					</div>
-					<div class="settings_column_leftalign">
+					<!-- <div class="settings_column_leftalign">
 						<h5>{{ _('Annotation layers in glossed mode:') }}</h5>
 						<div class="row">
 							<input type="checkbox" name="toggle_lemma" data="lex" class="toggle_glossed_layer row_checkbox" id="toggle_lemma" checked>
@@ -81,7 +81,7 @@
 							<input type="checkbox" name="toggle_additional_ana_fields" data="field_ana_other" class="toggle_glossed_layer row_checkbox" id="toggle_additional_ana_fields" checked>
 							<label for="toggle_additional_ana_fields" class="col-sm-6">{{ _('Additional fields') }}</label>
 						</div>
-					</div>
+					</div> -->
 				</div>
 			</div>
 			<div class="modal-footer">

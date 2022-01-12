@@ -7,7 +7,8 @@
 
 .box_column {
 	height: 97vh;
-	width: 99vw;
+/*	width: 99vw;*/
+	width: 100vw;
 	display: flex;
 	flex-flow: column;
 }
@@ -25,9 +26,36 @@
 }
 
 .btn-primary {
-	background-color: #238eeb;
-	border-color: #0f77d1;
+/*	background-color: #238eeb;
+	border-color: #0f77d1;*/
+    background-color: #177bd194;
+    border-color: #2e6da4;
 }
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active{
+	background-color: #2574b9;
+	border-color: #2e6da4;
+	box-shadow: none !important; 
+}
+
+.btn-outline-primary {
+	color: #fff;
+  /*background-color: #5bc0de;
+  	border-color: #6a8e99;*/
+    background-color: #32bfe99e;
+    border-color: #6a8e9900;
+}
+
+.btn-outline-primary:hover, 
+.btn-outline-primary:focus,
+.btn-outline-primary:active{
+  background-color: #4993a9;
+  border-color: #2e6da4;
+  box-shadow: none !important;
+}
+
 
 .alert-info {
 	background-color: #b3ddff;
@@ -198,6 +226,13 @@
 	vertical-align: text-top;
 }
 
+.query_slide {
+	background-image: url("/static/img/back-min4.png");
+    background-size: cover;
+    background-position: 37% 8%;
+    padding-top: 20px;
+}
+
 .query_word_header {
 	vertical-align: middle;
 	text-align: left;
@@ -306,6 +341,7 @@
 .context_header {
 	cursor: pointer;
 	display: inline-block;
+	border-bottom: 1px solid rgba(255, 255, 255, 0);
 }
 
 .context_header:hover {
@@ -316,7 +352,8 @@
 	font-size: 18px;
 	padding-right: 20px;
 	font-weight: bold;
-	color: #1f6099;
+	#color: #1f6099;
+	color: #3a537a;
 }
 
 .ch_author {
@@ -329,10 +366,18 @@
 	padding-left: 10px;
 }
 
+.ch_source_type {
+	padding: 3px 5px 3px 5px;
+	border-radius: 5px;
+	background-color: #ffa07a21;
+	margin-left: 20px;
+}
+
 .context {
-	border-radius: 10px;
+	/*border-radius: 10px;*/
 	border-top: 1px gray dotted;
-	padding: 5px;
+	/*padding: 5px;*/
+	padding: 10px 0px 5px 0px;
 }
 
 .page_link {
@@ -398,14 +443,16 @@
 	padding-left: 15px;
 	margin-right: 4px;
 	border-radius: 6px;
-	border: 1px solid #a8a8a8;
+	/*border: 1px solid #a8a8a8;*/
 	resize: vertical;
 	white-space: nowrap;
+	background-color: #ffffffc4;
 }
 
 .word_search.negated {
 	color: white;
 	background-color: black;
+	background-color: #000000c9;
 }
 
 .word_rel {
@@ -414,6 +461,7 @@
 
 .word {
 	display: inline-block;
+	border-bottom: 1px solid rgba(255, 255, 255, 0);
 }
 
 .word_in_table {
@@ -468,6 +516,16 @@ label {
 	margin-bottom: 0;
 }
 
+label[for=txt],
+label[for=precise] {
+	padding-left: 40px;
+	color: #e1e1e1;
+}
+
+label[for=precise] {
+	padding-left: 5px;
+}
+
 .disabled_search_input {
 	color: #AAAAAA;
 }
@@ -497,7 +555,8 @@ label {
 	position: relative;
 	width: 25px;
 	display: flex;
-	margin: auto;
+	/*margin: auto;*/
+	margin-top: 6px;
 }
 
 .cx_toggle_chk {
@@ -512,9 +571,11 @@ label {
 
 #corpus_title {
 	font-size: 1.3em;
-	color: #085da6;
+	/*color: #085da6;*/
 	display: inline-flex;
 	margin: 0 20px 0 0;
+	color: #526e99;
+	padding: 7px 15px;
 }
 
 #search_results {
@@ -525,9 +586,11 @@ label {
 	display: flex;
 	flex-flow: column;
 	height: 100%;
-	max-width: 1100px;
+	/*max-width: 1100px;*/
+  	max-width: 95%;
 	min-width: 400px;
-	margin-left: 3px;
+	/*margin-left: 3px;*/
+	margin: auto;
 }
 
 #search_results > * {
@@ -592,9 +655,9 @@ label {
 }
 
 #corpus_header a.bi {
-	font-size: 24px;
+	font-size: 1.3em;
 	padding-right: 10px;
-	vertical-align: top;
+	/*vertical-align: top;*/
 	cursor: pointer;
 	line-height: 1;
 }
@@ -653,7 +716,8 @@ label {
 	padding: 5px;
 	height: 100%;
 	vertical-align: top;
-	background-color: #d4ebff;
+	/*background-color: #d4ebff;*/
+	background-color: #f9f9f9b8;
 	border-top-right-radius: 6px;
 	border-bottom-right-radius: 6px;
 }
@@ -778,7 +842,8 @@ hr.separator {
 
 
 .search_results_novideo {
-	height: calc(100% - 70px) !important;
+/*	height: calc(100% - 70px) !important;*/
+	height: calc(100% - 10px) !important;
 }
 
 #media_div {
@@ -881,7 +946,8 @@ hr.separator {
 }
 
 .modal-dialog {
-	max-width: 60vw;
+	/*max-width: 60vw;*/
+	max-width: 80vw;
 }
 
 .modal-content {
@@ -1101,6 +1167,7 @@ hr.separator {
   border-right-color: transparent;
   text-align: center;
   border-radius: 4px 4px 0px 0px;
+  color: #337ab7;
 }
 
 .vertical-text>li.active>a,
@@ -1138,6 +1205,7 @@ hr.separator {
 	float: left;
 	font-size: 2em;
 	text-align: center;
+	opacity: 0.87;
 }
 
 .link_icon {
@@ -1174,6 +1242,26 @@ hr.separator {
 	font-size: 1.2em;
 }
 
+.search_buttons .btn-outline-dark {
+	padding-left: 20px;
+    padding-right: 20px;
+    font-size: 1.2em;
+    box-shadow: none !important;
+    background-color: #424242;
+    color: white;
+}
+
+.search_buttons .btn-outline-dark:hover,
+.search_buttons .btn-outline-dark:focus,
+.search_buttons .btn-outline-dark:active {
+	padding-left: 20px;
+	padding-right: 20px;
+	font-size: 1.2em;
+	box-shadow: none !important;
+	background-color: #2a2a2a;
+}
+
+
 #hide_query_button {
 	width: 100%;
 	min-width: 400px;
@@ -1182,13 +1270,14 @@ hr.separator {
 	border-left: 0;
 	border-right: 0;
 	border-bottom: 1px dotted gray;
-	border-radius: 0px 0px 10px 10px;
-	background-color: #eef;
+	/*border-radius: 0px 0px 10px 10px;*/
+	/*background-color: #eef;*/
 	margin-top: 5px;
 	margin-bottom: 7px;
-	background: linear-gradient(#fefefe, #eef);
+	/*background: linear-gradient(#fefefe, #eef);*/
+	background: linear-gradient(#fefefe, #f5f5f5);
 	padding-bottom: 3px;
-	display: none; /* only before first search */
+	display: none;
 }
 
 #hide_query_button:focus {
@@ -1275,12 +1364,12 @@ hr.separator {
   font: 11px sans-serif;
   color: #333;
 }
-/*
+
 .x.axis text {
   transform: rotate(90deg);
   transform-origin: left top 0;
 }
-*/
+
 .axis path,
 .axis line {
   fill: none;
@@ -1390,7 +1479,7 @@ svg circle {
 	float: left;
 }
 
-@media (min-height: 700px) and (orientation:landscape) {
+/*@media (min-height: 700px) and (orientation:landscape) {
 	.centered {
 		position: fixed;
 		top: 50%;
@@ -1398,7 +1487,7 @@ svg circle {
 		transform: translate(-50%, -50%);
 		min-inline-size: fit-content;
 	}
-}
+}*/
 
 .btn-test {
     max-width: 250px;
@@ -1527,7 +1616,10 @@ svg circle {
 }
 
 #greeting {
+    /*max-width: 900px;*/
     max-width: 900px;
+    margin: auto;
+    margin-top: 30px;
 }
 
 .autocomplete-suggestions {

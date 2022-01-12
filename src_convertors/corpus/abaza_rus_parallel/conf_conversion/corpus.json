@@ -1,5 +1,5 @@
 {
-  "corpus_name": "abaza_rus_corpus",
+  "corpus_name": "abaza_rus_parallel",
   "input_format": "json-gzip",
   "debug": false,
   "media": false,
@@ -10,10 +10,11 @@
   "max_words_in_sentence": 40,
   "query_timeout": 60,
   "viewable_meta": [
-    "filename",
     "author",
     "title",
     "title_abq",
+    "genre",
+    "subgenre",
     "year"
   ],
   "sentence_meta": [  ],
