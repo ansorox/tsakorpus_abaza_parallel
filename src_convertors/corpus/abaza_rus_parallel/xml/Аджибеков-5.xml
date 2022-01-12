@@ -3,397 +3,397 @@
 <head>
 </head>
 <body>
+  <para id="0">
+    <se lang="aba" variant_id="0">АмгІвакви алахькви</se>
+    <se lang="rus" variant_id="1">Я не перепутаю его почерк никогда и ни с чем.</se>
+  </para>
   <para id="1">
-    <se lang="abaza" variant_id="0">АмгІвакви алахькви</se>
-    <se lang="russian" variant_id="1">Дороги и судьбы</se>
+    <se lang="aba" variant_id="0">Ацикл йауапІ</se>
+    <se lang="rus" variant_id="1">Дороги и судьбы</se>
   </para>
   <para id="2">
-    <se lang="abaza" variant_id="0">Ацикл йауапІ</se>
-    <se lang="russian" variant_id="1">Из цикла</se>
+    <se lang="aba" variant_id="0">Суыса сгІапхьитІ са Москва апны,</se>
+    <se lang="rus" variant_id="1">Из цикла</se>
   </para>
   <para id="3">
-    <se lang="abaza" variant_id="0">Суыса сгІапхьитІ са Москва апны,</se>
-    <se lang="russian" variant_id="1">Свой стих читаю я в Москве,</se>
+    <se lang="aba" variant_id="0">Урышвлагьи абазалагьи сгӀапхьитӀ.</se>
+    <se lang="rus" variant_id="1">Свой стих читаю я в Москве,</se>
   </para>
   <para id="4">
-    <se lang="abaza" variant_id="0">Урышвлагьи абазалагьи сгӀапхьитӀ.</se>
-    <se lang="russian" variant_id="1">На русском и на абазинском (языках) читаю.</se>
+    <se lang="aba" variant_id="0">СмачӀкӀ гӀашӀшвшвитӀ, йназбитӀ са, агваны,</se>
+    <se lang="rus" variant_id="1">На русском и на абазинском (языках) читаю.</se>
   </para>
   <para id="5">
-    <se lang="abaza" variant_id="0">СмачӀкӀ гӀашӀшвшвитӀ, йназбитӀ са, агваны,</se>
-    <se lang="russian" variant_id="1">Снег небольшой идет, я вижу, за окном,</se>
+    <se lang="aba" variant_id="0">Псайспадза Россия адгьыл йгӀаквпӀлитӀ.</se>
+    <se lang="rus" variant_id="1">Снег небольшой идет, я вижу, за окном,</se>
   </para>
   <para id="6">
-    <se lang="abaza" variant_id="0">Псайспадза Россия адгьыл йгӀаквпӀлитӀ.</se>
-    <se lang="russian" variant_id="1">И тихо на землю России сыплется.</se>
+    <se lang="aba" variant_id="0">Сбжьы гӀатыхӀвачвгӀитӀ сзыгӀвну азал,</se>
+    <se lang="rus" variant_id="1">И тихо на землю России сыплется.</se>
   </para>
   <para id="7">
-    <se lang="abaza" variant_id="0">Сбжьы гӀатыхӀвачвгӀитӀ сзыгӀвну азал,</se>
-    <se lang="russian" variant_id="1">Мой голос гулко раздается в зале, в котором нахожусь,</se>
+    <se lang="aba" variant_id="0">Урышвлагьи абазалагьи схъвыцитӀ.</se>
+    <se lang="rus" variant_id="1">Мой голос гулко раздается в зале, в котором нахожусь,</se>
   </para>
   <para id="8">
-    <se lang="abaza" variant_id="0">Урышвлагьи абазалагьи схъвыцитӀ.</se>
-    <se lang="russian" variant_id="1">На русском и абазинском (языках) я думаю.</se>
+    <se lang="aba" variant_id="0">ЙсыласхӀвитӀ йгӀаскӀьанызшва акъвал,</se>
+    <se lang="rus" variant_id="1">На русском и абазинском (языках) я думаю.</se>
   </para>
   <para id="9">
-    <se lang="abaza" variant_id="0">ЙсыласхӀвитӀ йгӀаскӀьанызшва акъвал,</se>
-    <se lang="russian" variant_id="1">И чувствую, как будто выиграл я кость игральную,</se>
+    <se lang="aba" variant_id="0">СшгӀапхьумца сгӀатгара пшдза сархъвыхитӀ.</se>
+    <se lang="rus" variant_id="1">И чувствую, как будто выиграл я кость игральную,</se>
   </para>
   <para id="10">
-    <se lang="abaza" variant_id="0">СшгӀапхьумца сгӀатгара пшдза сархъвыхитӀ.</se>
-    <se lang="russian" variant_id="1">Я читаю, а успех испытывает меня.</se>
+    <se lang="aba" variant_id="0">Сгвы йгьгӀанамгтӀ апхъала зны сара</se>
+    <se lang="rus" variant_id="1">Я читаю, а успех испытывает меня.</se>
   </para>
   <para id="11">
-    <se lang="abaza" variant_id="0">Сгвы йгьгӀанамгтӀ апхъала зны сара</se>
-    <se lang="russian" variant_id="1">И не думал до сих пор ни разу,</se>
+    <se lang="aba" variant_id="0">Йшсылшушыз Москва апны араса,</se>
+    <se lang="rus" variant_id="1">И не думал до сих пор ни разу,</se>
   </para>
   <para id="12">
-    <se lang="abaza" variant_id="0">Йшсылшушыз Москва апны араса,</se>
-    <se lang="russian" variant_id="1">Что в Москве удастся мне такое,</se>
+    <se lang="aba" variant_id="0">Зны санчкӀвыныз йсгвалаз ахъара</se>
+    <se lang="rus" variant_id="1">Что в Москве удастся мне такое,</se>
   </para>
   <para id="13">
-    <se lang="abaza" variant_id="0">Зны санчкӀвыныз йсгвалаз ахъара</se>
-    <se lang="russian" variant_id="1">И то, что в юности было когда-то далекой мечтой,</se>
+    <se lang="aba" variant_id="0">Сылапш йшгӀанакӀуашыз са араъа.</se>
+    <se lang="rus" variant_id="1">И то, что в юности было когда-то далекой мечтой,</se>
   </para>
   <para id="14">
-    <se lang="abaza" variant_id="0">Сылапш йшгӀанакӀуашыз са араъа.</se>
-    <se lang="russian" variant_id="1">Станет явью для меня здесь.</se>
+    <se lang="aba" variant_id="0">Суыса сгӀапхьитӀ са Москва апны,</se>
+    <se lang="rus" variant_id="1">Станет явью для меня здесь.</se>
   </para>
   <para id="15">
-    <se lang="abaza" variant_id="0">Суыса сгӀапхьитӀ са Москва апны,</se>
-    <se lang="russian" variant_id="1">Свой стих читаю я в Москве,</se>
+    <se lang="aba" variant_id="0">Урышвлагьи абазалагьи схъвыцуа.</se>
+    <se lang="rus" variant_id="1">Свой стих читаю я в Москве,</se>
   </para>
   <para id="16">
-    <se lang="abaza" variant_id="0">Урышвлагьи абазалагьи схъвыцуа.</se>
-    <se lang="russian" variant_id="1">На русском и абазинском языках думая.</se>
+    <se lang="aba" variant_id="0">СмачӀкӀ гӀашӀшвшвитӀ, йназбитӀ са, агваны,</se>
+    <se lang="rus" variant_id="1">На русском и абазинском языках думая.</se>
   </para>
   <para id="17">
-    <se lang="abaza" variant_id="0">СмачӀкӀ гӀашӀшвшвитӀ, йназбитӀ са, агваны,</se>
-    <se lang="russian" variant_id="1">Снег небольшой идет, я вижу, за окном,</se>
+    <se lang="aba" variant_id="0">Сбзазара насыпкӀла йгӀанаршӀыцуа.</se>
+    <se lang="rus" variant_id="1">Снег небольшой идет, я вижу, за окном,</se>
   </para>
   <para id="18">
-    <se lang="abaza" variant_id="0">Сбзазара насыпкӀла йгӀанаршӀыцуа.</se>
-    <se lang="russian" variant_id="1">Мою жизнь каким-то счастьем обновляя.</se>
+    <se lang="aba" variant_id="0">Гвым апсыхӀва бзи йызбатӀ сара,</se>
+    <se lang="rus" variant_id="1">Мою жизнь каким-то счастьем обновляя.</se>
   </para>
   <para id="19">
-    <se lang="abaza" variant_id="0">Гвым апсыхӀва бзи йызбатӀ сара,</se>
-    <se lang="russian" variant_id="1">Долину Гума полюбил я,</se>
+    <se lang="aba" variant_id="0">ХӀани хӀаби сдрыгӀвычӀвгӀвыстӀ араъа.</se>
+    <se lang="rus" variant_id="1">Долину Гума полюбил я,</se>
   </para>
   <para id="20">
-    <se lang="abaza" variant_id="0">ХӀани хӀаби сдрыгӀвычӀвгӀвыстӀ араъа.</se>
-    <se lang="russian" variant_id="1">Мать и отец человеком сделали меня здесь.</se>
+    <se lang="aba" variant_id="0">ЙджвыкврыжьтӀ сара сгвалаква рпссгӀара,</se>
+    <se lang="rus" variant_id="1">Мать и отец человеком сделали меня здесь.</se>
   </para>
   <para id="21">
-    <se lang="abaza" variant_id="0">ЙджвыкврыжьтӀ сара сгвалаква рпссгӀара,</se>
-    <se lang="russian" variant_id="1">Они отправили мои мечты в полет,</se>
+    <se lang="aba" variant_id="0">Са йгӀасархӀвтӀ йшымгӀвайсуа хӀдзыгӀв хъарата.</se>
+    <se lang="rus" variant_id="1">Они отправили мои мечты в полет,</se>
   </para>
   <para id="22">
-    <se lang="abaza" variant_id="0">Са йгӀасархӀвтӀ йшымгӀвайсуа хӀдзыгӀв хъарата.</se>
-    <se lang="russian" variant_id="1">Мне они рассказали, что течет наша речка Гум далеко.</se>
+    <se lang="aba" variant_id="0">ХӀани хӀаби рытшгӀва пха саршыштӀ,</se>
+    <se lang="rus" variant_id="1">Мне они рассказали, что течет наша речка Гум далеко.</se>
   </para>
   <para id="23">
-    <se lang="abaza" variant_id="0">ХӀани хӀаби рытшгӀва пха саршыштӀ,</se>
-    <se lang="russian" variant_id="1">Очаг матери и отца согрел меня,</se>
+    <se lang="aba" variant_id="0">СагӀзатӀ хӀани хӀаби рхъвшва йгӀатыцӀуаз.</se>
+    <se lang="rus" variant_id="1">Очаг матери и отца согрел меня,</se>
   </para>
   <para id="24">
-    <se lang="abaza" variant_id="0">СагӀзатӀ хӀани хӀаби рхъвшва йгӀатыцӀуаз.</se>
-    <se lang="russian" variant_id="1">Взрастила меня пища из материнского и отцовского котла.</se>
+    <se lang="aba" variant_id="0">Сыхъаз Анчва йылпха хӀтдзы йгӀашылтӀ,</se>
+    <se lang="rus" variant_id="1">Взрастила меня пища из материнского и отцовского котла.</se>
   </para>
   <para id="25">
-    <se lang="abaza" variant_id="0">Сыхъаз Анчва йылпха хӀтдзы йгӀашылтӀ,</se>
-    <se lang="russian" variant_id="1">Для меня Божья милость в дом наш вошла,</se>
+    <se lang="aba" variant_id="0">ЙсыласхӀватӀ анур ауи йгӀахъыцӀуаз.</se>
+    <se lang="rus" variant_id="1">Для меня Божья милость в дом наш вошла,</se>
   </para>
   <para id="26">
-    <se lang="abaza" variant_id="0">ЙсыласхӀватӀ анур ауи йгӀахъыцӀуаз.</se>
-    <se lang="russian" variant_id="1">И почувствовал я свет из нее исходящий.</se>
+    <se lang="aba" variant_id="0">Апхьартагьи пычӀвта хӀан слырцатӀ,</se>
+    <se lang="rus" variant_id="1">И почувствовал я свет из нее исходящий.</se>
   </para>
   <para id="27">
-    <se lang="abaza" variant_id="0">Апхьартагьи пычӀвта хӀан слырцатӀ,</se>
-    <se lang="russian" variant_id="1">В школу меня впервые мать повела,</se>
+    <se lang="aba" variant_id="0">Садсылын йгӀасыдсылхтӀ са адырра.</se>
+    <se lang="rus" variant_id="1">В школу меня впервые мать повела,</se>
   </para>
   <para id="28">
-    <se lang="abaza" variant_id="0">Садсылын йгӀасыдсылхтӀ са адырра.</se>
-    <se lang="russian" variant_id="1">Прикоснулся к знанию, и оно — ко мне.</se>
+    <se lang="aba" variant_id="0">ХӀаба са Гвым апшдзара сйырбатӀ,</se>
+    <se lang="rus" variant_id="1">Прикоснулся к знанию, и оно — ко мне.</se>
   </para>
   <para id="29">
-    <se lang="abaza" variant_id="0">ХӀаба са Гвым апшдзара сйырбатӀ,</se>
-    <se lang="russian" variant_id="1">Отец красоту Гума мне показал,</se>
+    <se lang="aba" variant_id="0">Са йгӀасайхӀвтӀ йгӀасыхъвуш хӀдзыгӀв санырра.</se>
+    <se lang="rus" variant_id="1">Отец красоту Гума мне показал,</se>
   </para>
   <para id="30">
-    <se lang="abaza" variant_id="0">Са йгӀасайхӀвтӀ йгӀасыхъвуш хӀдзыгӀв санырра.</se>
-    <se lang="russian" variant_id="1">И рассказал мне, что мне понадобится, когда перейду на ту сторону нашей реки.</se>
+    <se lang="aba" variant_id="0">ХӀани хӀаби сыкврыжьтӀ мгӀва сара,</se>
+    <se lang="rus" variant_id="1">И рассказал мне, что мне понадобится, когда перейду на ту сторону нашей реки.</se>
   </para>
   <para id="31">
-    <se lang="abaza" variant_id="0">ХӀани хӀаби сыкврыжьтӀ мгӀва сара,</se>
-    <se lang="russian" variant_id="1">Мать и отец отправили меня в путь,</se>
+    <se lang="aba" variant_id="0">Ужвыгьи сгьгӀаквымцӀстӀ са ауи, счӀвырхъаркӀвитӀ.</se>
+    <se lang="rus" variant_id="1">Мать и отец отправили меня в путь,</se>
   </para>
   <para id="32">
-    <se lang="abaza" variant_id="0">Ужвыгьи сгьгӀаквымцӀстӀ са ауи, счӀвырхъаркӀвитӀ.</se>
-    <se lang="russian" variant_id="1">Еще не сошел я с него, продолжаю шагать.</se>
+    <se lang="aba" variant_id="0">СайгвгъитӀ зны сгвы йту насырдзара,</se>
+    <se lang="rus" variant_id="1">Еще не сошел я с него, продолжаю шагать.</se>
   </para>
   <para id="33">
-    <se lang="abaza" variant_id="0">СайгвгъитӀ зны сгвы йту насырдзара,</se>
-    <se lang="russian" variant_id="1">Надеюсь еще когда-нибудь осуществить свою мечту,</se>
+    <se lang="aba" variant_id="0">Ужвыгьи тшгӀасмырльальауа сынхаркӀвитӀ.</se>
+    <se lang="rus" variant_id="1">Надеюсь еще когда-нибудь осуществить свою мечту,</se>
   </para>
   <para id="34">
-    <se lang="abaza" variant_id="0">Ужвыгьи тшгӀасмырльальауа сынхаркӀвитӀ.</se>
-    <se lang="russian" variant_id="1">Все еще неустанно продолжаю работать.</se>
+    <se lang="aba" variant_id="0">Ахьанта ануыкву уымгІва йгІацлитІ,</se>
+    <se lang="rus" variant_id="1">Все еще неустанно продолжаю работать.</se>
   </para>
   <para id="35">
-    <se lang="abaza" variant_id="0">Ахьанта ануыкву уымгІва йгІацлитІ,</se>
-    <se lang="russian" variant_id="1">Когда на тебе лежит тяжесть, дорога твоя становится длиннее,</se>
+    <se lang="aba" variant_id="0">Азамангьи мачІкІ тшаркъвумца йгІайлитІ.</se>
+    <se lang="rus" variant_id="1">Когда на тебе лежит тяжесть, дорога твоя становится длиннее,</se>
   </para>
   <para id="36">
-    <se lang="abaza" variant_id="0">Азамангьи мачІкІ тшаркъвумца йгІайлитІ.</se>
-    <se lang="russian" variant_id="1">Время тянется медленнее.</se>
+    <se lang="aba" variant_id="0">ЙузымгвашІхуа агІазаб йгІауыквхІаз,</se>
+    <se lang="rus" variant_id="1">Время тянется медленнее.</se>
   </para>
   <para id="37">
-    <se lang="abaza" variant_id="0">ЙузымгвашІхуа агІазаб йгІауыквхІаз,</se>
-    <se lang="russian" variant_id="1">Не выдерживая муки, выпавшие на твою долю,</se>
+    <se lang="aba" variant_id="0">Уа йучвыдзитІ анасып йгІауыквшваз.</se>
+    <se lang="rus" variant_id="1">Не выдерживая муки, выпавшие на твою долю,</se>
   </para>
   <para id="38">
-    <se lang="abaza" variant_id="0">Уа йучвыдзитІ анасып йгІауыквшваз.</se>
-    <se lang="russian" variant_id="1">Ты теряешь счастье, предназначенное тебе.</se>
+    <se lang="aba" variant_id="0">ЙкІауымрахІан угвы, уымгІвайс айрышта,</se>
+    <se lang="rus" variant_id="1">Ты теряешь счастье, предназначенное тебе.</se>
   </para>
   <para id="39">
-    <se lang="abaza" variant_id="0">ЙкІауымрахІан угвы, уымгІвайс айрышта,</se>
-    <se lang="russian" variant_id="1">Не падай духом и иди упрямо,</se>
+    <se lang="aba" variant_id="0">Умурад бзи пуымтшын чхІарала тшхърыста.</se>
+    <se lang="rus" variant_id="1">Не падай духом и иди упрямо,</se>
   </para>
   <para id="40">
-    <se lang="abaza" variant_id="0">Умурад бзи пуымтшын чхІарала тшхърыста.</se>
-    <se lang="russian" variant_id="1">Ты цель свою хорошую не разбивай, терпеньем запасаясь.</se>
+    <se lang="aba" variant_id="0">АпстхІва жвпІара апша мчы йхънацахуаштІ,</se>
+    <se lang="rus" variant_id="1">Ты цель свою хорошую не разбивай, терпеньем запасаясь.</se>
   </para>
   <para id="41">
-    <se lang="abaza" variant_id="0">АпстхІва жвпІара апша мчы йхънацахуаштІ,</se>
-    <se lang="russian" variant_id="1">Ветер сильный густые тучи прогонит,</se>
+    <se lang="aba" variant_id="0">Уымара кІаркІаруа ухъахь йгІаншахуаштІ.</se>
+    <se lang="rus" variant_id="1">Ветер сильный густые тучи прогонит,</se>
   </para>
   <para id="42">
-    <se lang="abaza" variant_id="0">Уымара кІаркІаруа ухъахь йгІаншахуаштІ.</se>
-    <se lang="russian" variant_id="1">Солнце твое яркое над тобою появится снова.</se>
+    <se lang="aba" variant_id="0">Йузырхъа уара угвы йту агвала,</se>
+    <se lang="rus" variant_id="1">Солнце твое яркое над тобою появится снова.</se>
   </para>
   <para id="43">
-    <se lang="abaza" variant_id="0">Йузырхъа уара угвы йту агвала,</se>
-    <se lang="russian" variant_id="1">Сделай так, чтобы хватило тебе в сердце твоем мечты,</se>
+    <se lang="aba" variant_id="0">Адунай уызкву йнархъа ашвала.</se>
+    <se lang="rus" variant_id="1">Сделай так, чтобы хватило тебе в сердце твоем мечты,</se>
   </para>
   <para id="44">
-    <se lang="abaza" variant_id="0">Адунай уызкву йнархъа ашвала.</se>
-    <se lang="russian" variant_id="1">Сделай так, чтобы миру твоему хватило песен.</se>
+    <se lang="aba" variant_id="0">Ахьанта ласхуштІ, адахІвра гІайуаштІ,</se>
+    <se lang="rus" variant_id="1">Сделай так, чтобы миру твоему хватило песен.</se>
   </para>
   <para id="45">
-    <se lang="abaza" variant_id="0">Ахьанта ласхуштІ, адахІвра гІайуаштІ,</se>
-    <se lang="russian" variant_id="1">Тяжесть сделается легкой, успех придет,</se>
+    <se lang="aba" variant_id="0">АгІазаб йгІауыквхІазгьи уайгІайуаштІ.</se>
+    <se lang="rus" variant_id="1">Тяжесть сделается легкой, успех придет,</se>
   </para>
   <para id="46">
-    <se lang="abaza" variant_id="0">АгІазаб йгІауыквхІазгьи уайгІайуаштІ.</se>
-    <se lang="russian" variant_id="1">Мученье, навалившееся на тебя, ты победишь.</se>
+    <se lang="aba" variant_id="0">ЙгІахъынхІвыхуаштІ уынасып йымкъвахуа,</se>
+    <se lang="rus" variant_id="1">Мученье, навалившееся на тебя, ты победишь.</se>
   </para>
   <para id="47">
-    <se lang="abaza" variant_id="0">ЙгІахъынхІвыхуаштІ уынасып йымкъвахуа,</se>
-    <se lang="russian" variant_id="1">Вернется снова счастье твое скоро,</se>
+    <se lang="aba" variant_id="0">Азаман гІадзуштІ – уаргьи йгІаухІвахуаштІ.</se>
+    <se lang="rus" variant_id="1">Вернется снова счастье твое скоро,</se>
   </para>
   <para id="48">
-    <se lang="abaza" variant_id="0">Азаман гІадзуштІ – уаргьи йгІаухІвахуаштІ.</se>
-    <se lang="russian" variant_id="1">Наступит время — и ты будешь наслаждаться.</se>
+    <se lang="aba" variant_id="0">УыцІлаква гІакъагІуштІ шкІвокІвасышта,</se>
+    <se lang="rus" variant_id="1">Наступит время — и ты будешь наслаждаться.</se>
   </para>
   <para id="49">
-    <se lang="abaza" variant_id="0">УыцІлаква гІакъагІуштІ шкІвокІвасышта,</se>
-    <se lang="russian" variant_id="1">Деревья твои зацветут белоснежно,</se>
+    <se lang="aba" variant_id="0">Гвыргъьахъв бжьы гІатыхІвачвгІахуаштІ уышта.</se>
+    <se lang="rus" variant_id="1">Деревья твои зацветут белоснежно,</se>
   </para>
   <para id="50">
-    <se lang="abaza" variant_id="0">Гвыргъьахъв бжьы гІатыхІвачвгІахуаштІ уышта.</se>
-    <se lang="russian" variant_id="1">Радости звук снова гулко зазвучит в твоем доме.</se>
+    <se lang="aba" variant_id="0">«АжвгІванд цІгІвадапІ, йгьамам швага-зага,</se>
+    <se lang="rus" variant_id="1">Радости звук снова гулко зазвучит в твоем доме.</se>
   </para>
   <para id="51">
-    <se lang="abaza" variant_id="0">«АжвгІванд цІгІвадапІ, йгьамам швага-зага,</se>
-    <se lang="russian" variant_id="1">«Небо бездонное, не имеет мерила,</se>
+    <se lang="aba" variant_id="0">ТшгІаумырльальан, марджьа, хІайтхІва убзаза!» —</se>
+    <se lang="rus" variant_id="1">«Небо бездонное, не имеет мерила,</se>
   </para>
   <para id="52">
-    <se lang="abaza" variant_id="0">ТшгІаумырльальан, марджьа, хІайтхІва убзаза!» —</se>
-    <se lang="russian" variant_id="1">Не расслабляйся, марджа**, не ленясь живи!» —</se>
+    <se lang="aba" variant_id="0">Абараса сара сгвы гІасыхІвитІ.</se>
+    <se lang="rus" variant_id="1">Не расслабляйся, марджа**, не ленясь живи!» —</se>
   </para>
   <para id="53">
-    <se lang="abaza" variant_id="0">Абараса сара сгвы гІасыхІвитІ.</se>
-    <se lang="russian" variant_id="1">Вот так меня сердце просит.</se>
+    <se lang="aba" variant_id="0">Жьыхь зымдыруа агІамтагьи сыгІвситІ.</se>
+    <se lang="rus" variant_id="1">Вот так меня сердце просит.</se>
   </para>
   <para id="54">
-    <se lang="abaza" variant_id="0">Жьыхь зымдыруа агІамтагьи сыгІвситІ.</se>
-    <se lang="russian" variant_id="1">Безжалостное время проходит мимо.</se>
+    <se lang="aba" variant_id="0">«Асатей уызкву хъа-цІыхъва гьамам,</se>
+    <se lang="rus" variant_id="1">Безжалостное время проходит мимо.</se>
   </para>
   <para id="55">
-    <se lang="abaza" variant_id="0">«Асатей уызкву хъа-цІыхъва гьамам,</se>
-    <se lang="russian" variant_id="1">«Пространство, в котором ты находишься, не имеет ни начала, ни конца,</se>
+    <se lang="aba" variant_id="0">МгІва хъара шуызпшуа кьангьашра гьалам!» —</se>
+    <se lang="rus" variant_id="1">«Пространство, в котором ты находишься, не имеет ни начала, ни конца,</se>
   </para>
   <para id="56">
-    <se lang="abaza" variant_id="0">МгІва хъара шуызпшуа кьангьашра гьалам!» —</se>
-    <se lang="russian" variant_id="1">В том, что тебя ждет дальняя дорога, сомнений нет!» —</se>
+    <se lang="aba" variant_id="0">Абараса сара спсы сызшІнатитІ,</se>
+    <se lang="rus" variant_id="1">В том, что тебя ждет дальняя дорога, сомнений нет!» —</se>
   </para>
   <para id="57">
-    <se lang="abaza" variant_id="0">Абараса сара спсы сызшІнатитІ,</se>
-    <se lang="russian" variant_id="1">Вот так меня душа зовет,</se>
+    <se lang="aba" variant_id="0">Ансимшгьи йамайчуа амч гІаснатитІ.</se>
+    <se lang="rus" variant_id="1">Вот так меня душа зовет,</se>
   </para>
   <para id="58">
-    <se lang="abaza" variant_id="0">Ансимшгьи йамайчуа амч гІаснатитІ.</se>
-    <se lang="russian" variant_id="1">Каждый день неустанно мне силы дает.</se>
+    <se lang="aba" variant_id="0">«Уачвымшван уджьагІвагІвчва ртшпынхІва блыбыл,</se>
+    <se lang="rus" variant_id="1">Каждый день неустанно мне силы дает.</se>
   </para>
   <para id="59">
-    <se lang="abaza" variant_id="0">«Уачвымшван уджьагІвагІвчва ртшпынхІва блыбыл,</se>
-    <se lang="russian" variant_id="1">«Не бойся недоброжелателей упрека жгучего,</se>
+    <se lang="aba" variant_id="0">ЙчхІа йгІахъыцІуа алмаст лакъапщ лыбыз!» —</se>
+    <se lang="rus" variant_id="1">«Не бойся недоброжелателей упрека жгучего,</se>
   </para>
   <para id="60">
-    <se lang="abaza" variant_id="0">ЙчхІа йгІахъыцІуа алмаст лакъапщ лыбыз!» —</se>
-    <se lang="russian" variant_id="1">Терпи красноглазой алмасты*** язык!» —</se>
+    <se lang="aba" variant_id="0">Абараса амурад сгвы щтІнахитІ,</se>
+    <se lang="rus" variant_id="1">Терпи красноглазой алмасты*** язык!» —</se>
   </para>
   <para id="61">
-    <se lang="abaza" variant_id="0">Абараса амурад сгвы щтІнахитІ,</se>
-    <se lang="russian" variant_id="1">Вот так цель мой дух поднимает,</se>
+    <se lang="aba" variant_id="0">АгІапсара йсыламдзахуа схънахитІ.</se>
+    <se lang="rus" variant_id="1">Вот так цель мой дух поднимает,</se>
   </para>
   <para id="62">
-    <se lang="abaza" variant_id="0">АгІапсара йсыламдзахуа схънахитІ.</se>
-    <se lang="russian" variant_id="1">Усталость нестерпимую далее с меня снимает.</se>
+    <se lang="aba" variant_id="0">АжвгІванд шцІгІваду, йшамам швага-зага</se>
+    <se lang="rus" variant_id="1">Усталость нестерпимую далее с меня снимает.</se>
   </para>
   <para id="63">
-    <se lang="abaza" variant_id="0">АжвгІванд шцІгІваду, йшамам швага-зага</se>
-    <se lang="russian" variant_id="1">О том, что небо бездонно и нет у него мерила,</se>
+    <se lang="aba" variant_id="0">ЙалнаргитІ са сакъыль йнайыз загІа.</se>
+    <se lang="rus" variant_id="1">О том, что небо бездонно и нет у него мерила,</se>
   </para>
   <para id="64">
-    <se lang="abaza" variant_id="0">ЙалнаргитІ са сакъыль йнайыз загІа.</se>
-    <se lang="russian" variant_id="1">Понимает мой ум устоявшийся.</se>
+    <se lang="aba" variant_id="0">Квырмышду наузысчпитІ, сара сылахь,</se>
+    <se lang="rus" variant_id="1">Понимает мой ум устоявшийся.</se>
   </para>
   <para id="65">
-    <se lang="abaza" variant_id="0">Квырмышду наузысчпитІ, сара сылахь,</se>
-    <se lang="russian" variant_id="1">Преклоняю пред тобой колени, моя судьба,</se>
+    <se lang="aba" variant_id="0">Ужвыгьи сквшщарда угвырквала угІасылах!</se>
+    <se lang="rus" variant_id="1">Преклоняю пред тобой колени, моя судьба,</se>
   </para>
   <para id="66">
-    <se lang="abaza" variant_id="0">Ужвыгьи сквшщарда угвырквала угІасылах!</se>
-    <se lang="russian" variant_id="1">Еще много лет укалывай меня своими иголками!</se>
+    <se lang="aba" variant_id="0">ГвалымцІыхта Пятигорск ашахвква</se>
+    <se lang="rus" variant_id="1">Еще много лет укалывай меня своими иголками!</se>
   </para>
   <para id="67">
-    <se lang="abaza" variant_id="0">ГвалымцІыхта Пятигорск ашахвква</se>
-    <se lang="russian" variant_id="1">Незабвенно Пятигорска зори</se>
+    <se lang="aba" variant_id="0">Хвысквша руацІа сыхъазгьи йгІаншатІ.</se>
+    <se lang="rus" variant_id="1">Незабвенно Пятигорска зори</se>
   </para>
   <para id="68">
-    <se lang="abaza" variant_id="0">Хвысквша руацІа сыхъазгьи йгІаншатІ.</se>
-    <se lang="russian" variant_id="1">В течении пяти лет и для меня появлялись.</se>
+    <se lang="aba" variant_id="0">Щта, сстудентын, дырра шІыц гІасахвуа,</se>
+    <se lang="rus" variant_id="1">В течении пяти лет и для меня появлялись.</se>
   </para>
   <para id="69">
-    <se lang="abaza" variant_id="0">Щта, сстудентын, дырра шІыц гІасахвуа,</se>
-    <se lang="russian" variant_id="1">Да, студентом был, беря новые знания,</se>
+    <se lang="aba" variant_id="0">Сара сылахь ашындаг слахІатІ.</se>
+    <se lang="rus" variant_id="1">Да, студентом был, беря новые знания,</se>
   </para>
   <para id="70">
-    <se lang="abaza" variant_id="0">Сара сылахь ашындаг слахІатІ.</se>
-    <se lang="russian" variant_id="1">Своей судьбы веревку я мотал.</se>
+    <se lang="aba" variant_id="0">Сгвы архІвапсун Псхваба алашара,</se>
+    <se lang="rus" variant_id="1">Своей судьбы веревку я мотал.</se>
   </para>
   <para id="71">
-    <se lang="abaza" variant_id="0">Сгвы архІвапсун Псхваба алашара,</se>
-    <se lang="russian" variant_id="1">Сердце привлекало Псхвабы**** свет,</se>
+    <se lang="aba" variant_id="0">Псайспа-псайспа сгвалаква йрызхІун.</se>
+    <se lang="rus" variant_id="1">Сердце привлекало Псхвабы**** свет,</se>
   </para>
   <para id="72">
-    <se lang="abaza" variant_id="0">Псайспа-псайспа сгвалаква йрызхІун.</se>
-    <se lang="russian" variant_id="1">Постепенно мечты множились.</se>
+    <se lang="aba" variant_id="0">СаздзыргІвуан сара ГвымчкІвын аквтштшара,</se>
+    <se lang="rus" variant_id="1">Постепенно мечты множились.</se>
   </para>
   <para id="73">
-    <se lang="abaza" variant_id="0">СаздзыргІвуан сара ГвымчкІвын аквтштшара,</se>
-    <se lang="russian" variant_id="1">Слушал я Подкумка шум,</se>
+    <se lang="aba" variant_id="0">Датшагьи быжь щарда са йызгІун.</se>
+    <se lang="rus" variant_id="1">Слушал я Подкумка шум,</se>
   </para>
   <para id="74">
-    <se lang="abaza" variant_id="0">Датшагьи быжь щарда са йызгІун.</se>
-    <se lang="russian" variant_id="1">Много других звуков я слышал.</se>
+    <se lang="aba" variant_id="0">«УмагІщауата уапхьа, ХІаджьисмель» – хІва</se>
+    <se lang="rus" variant_id="1">Много других звуков я слышал.</se>
   </para>
   <para id="75">
-    <se lang="abaza" variant_id="0">«УмагІщауата уапхьа, ХІаджьисмель» – хІва</se>
-    <se lang="russian" variant_id="1">«Не ленясь учись, Хаджисмель» —</se>
+    <se lang="aba" variant_id="0">Сани саби ражвагьи сгвы йтан.</se>
+    <se lang="rus" variant_id="1">«Не ленясь учись, Хаджисмель» —</se>
   </para>
   <para id="76">
-    <se lang="abaza" variant_id="0">Сани саби ражвагьи сгвы йтан.</se>
-    <se lang="russian" variant_id="1">Моей матери и отца слова в сердце находились.</se>
+    <se lang="aba" variant_id="0">Ауи агІан са сгьымпшгІузтІ хІамельхІва,</se>
+    <se lang="rus" variant_id="1">Моей матери и отца слова в сердце находились.</se>
   </para>
   <para id="77">
-    <se lang="abaza" variant_id="0">Ауи агІан са сгьымпшгІузтІ хІамельхІва,</se>
-    <se lang="russian" variant_id="1">Тогда не искал я религиозных книг,</se>
+    <se lang="aba" variant_id="0">Сара сыхъазла ауи мыждан.</se>
+    <se lang="rus" variant_id="1">Тогда не искал я религиозных книг,</se>
   </para>
   <para id="78">
-    <se lang="abaza" variant_id="0">Сара сыхъазла ауи мыждан.</se>
-    <se lang="russian" variant_id="1">Они были мне не нужны.</se>
+    <se lang="aba" variant_id="0">МаджьусиракІ сгІанарлашвуа йсылан,</se>
+    <se lang="rus" variant_id="1">Они были мне не нужны.</se>
   </para>
   <para id="79">
-    <se lang="abaza" variant_id="0">МаджьусиракІ сгІанарлашвуа йсылан,</se>
-    <se lang="russian" variant_id="1">Язычество какое-то, ослепляя меня, находилось во мне,</se>
+    <se lang="aba" variant_id="0">Сани саби рдингьи бзи йызбун.</se>
+    <se lang="rus" variant_id="1">Язычество какое-то, ослепляя меня, находилось во мне,</se>
   </para>
   <para id="80">
-    <se lang="abaza" variant_id="0">Сани саби рдингьи бзи йызбун.</se>
-    <se lang="russian" variant_id="1">Но и религию матери и отца я любил.</se>
+    <se lang="aba" variant_id="0">Абзигвыгъа са йачІвата йсыман,</se>
+    <se lang="rus" variant_id="1">Но и религию матери и отца я любил.</se>
   </para>
   <para id="81">
-    <se lang="abaza" variant_id="0">Абзигвыгъа са йачІвата йсыман,</se>
-    <se lang="russian" variant_id="1">Надежду я в виде звезды имел,</se>
+    <se lang="aba" variant_id="0">Сара сыхъаз анасып гІалбгІун.</se>
+    <se lang="rus" variant_id="1">Надежду я в виде звезды имел,</se>
   </para>
   <para id="82">
-    <se lang="abaza" variant_id="0">Сара сыхъаз анасып гІалбгІун.</se>
-    <se lang="russian" variant_id="1">Для меня счастье летело стремительно с неба.</se>
+    <se lang="aba" variant_id="0">Спхызква дрылан Лермонтов агангьи</se>
+    <se lang="rus" variant_id="1">Для меня счастье летело стремительно с неба.</se>
   </para>
   <para id="83">
-    <se lang="abaza" variant_id="0">Спхызква дрылан Лермонтов агангьи</se>
-    <se lang="russian" variant_id="1">Снился Лермонтов мне много раз,</se>
+    <se lang="aba" variant_id="0">Санстудентыз, Пятигорск сантаз.</se>
+    <se lang="rus" variant_id="1">Снился Лермонтов мне много раз,</se>
   </para>
   <para id="84">
-    <se lang="abaza" variant_id="0">Санстудентыз, Пятигорск сантаз.</se>
-    <se lang="russian" variant_id="1">Когда был студентом, в Пятигорске жил.</se>
+    <se lang="aba" variant_id="0">ЙлахьаквцІаран, щта, ауи йзамангьи,</se>
+    <se lang="rus" variant_id="1">Когда был студентом, в Пятигорске жил.</se>
   </para>
   <para id="85">
-    <se lang="abaza" variant_id="0">ЙлахьаквцІаран, щта, ауи йзамангьи,</se>
-    <se lang="russian" variant_id="1">Да, печальное было также его время,</se>
+    <se lang="aba" variant_id="0">ЙхІватІ ауысагІв йхьыгІаква шщардаз.</se>
+    <se lang="rus" variant_id="1">Да, печальное было также его время,</se>
   </para>
   <para id="86">
-    <se lang="abaza" variant_id="0">ЙхІватІ ауысагІв йхьыгІаква шщардаз.</se>
-    <se lang="russian" variant_id="1">Сказал поэт, что в нем много боли.</se>
+    <se lang="aba" variant_id="0">АмзагІв хвхвачкІвын снаквпшуан йахъазыта</se>
+    <se lang="rus" variant_id="1">Сказал поэт, что в нем много боли.</se>
   </para>
   <para id="87">
-    <se lang="abaza" variant_id="0">АмзагІв хвхвачкІвын снаквпшуан йахъазыта</se>
-    <se lang="russian" variant_id="1">Сосну стройную и одинокую видел я,</se>
+    <se lang="aba" variant_id="0">Абыхъв йшыквгылаз, закІы йшарбцІуаз.</se>
+    <se lang="rus" variant_id="1">Сосну стройную и одинокую видел я,</se>
   </para>
   <para id="88">
-    <se lang="abaza" variant_id="0">Абыхъв йшыквгылаз, закІы йшарбцІуаз.</se>
-    <se lang="russian" variant_id="1">На горе стояла она и чем-то придавлена была.</se>
+    <se lang="aba" variant_id="0">Аквагьи ауырата ладзыта</se>
+    <se lang="rus" variant_id="1">На горе стояла она и чем-то придавлена была.</se>
   </para>
   <para id="89">
-    <se lang="abaza" variant_id="0">Аквагьи ауырата ладзыта</se>
-    <se lang="russian" variant_id="1">Дождинки долго, как слезинки,</se>
+    <se lang="aba" variant_id="0">Сара снаквпшуан ацІла йшгІахьныжжуаз.</se>
+    <se lang="rus" variant_id="1">Дождинки долго, как слезинки,</se>
   </para>
   <para id="90">
-    <se lang="abaza" variant_id="0">Сара снаквпшуан ацІла йшгІахьныжжуаз.</se>
-    <se lang="russian" variant_id="1">Я видел, как по дереву стекали.</se>
+    <se lang="aba" variant_id="0">Адуней хъгІа дыквцІхтІ ауи дшІадзата,</se>
+    <se lang="rus" variant_id="1">Я видел, как по дереву стекали.</se>
   </para>
   <para id="91">
-    <se lang="abaza" variant_id="0">Адуней хъгІа дыквцІхтІ ауи дшІадзата,</se>
-    <se lang="russian" variant_id="1">Мир сладостный покинул он совсем молодым,</se>
+    <se lang="aba" variant_id="0">«ХІуагІа руысагІв» — хІва ауи йдйырхІватІ.</se>
+    <se lang="rus" variant_id="1">Мир сладостный покинул он совсем молодым,</se>
   </para>
   <para id="92">
-    <se lang="abaza" variant_id="0">«ХІуагІа руысагІв» — хІва ауи йдйырхІватІ.</se>
-    <se lang="russian" variant_id="1">Народным поэтом себя заставил назвать.</se>
+    <se lang="aba" variant_id="0">ЙхІызгІанижьтІ йтынха йгІащтІыхІхныс пшдзата,</se>
+    <se lang="rus" variant_id="1">Народным поэтом себя заставил назвать.</se>
   </para>
   <para id="93">
-    <se lang="abaza" variant_id="0">ЙхІызгІанижьтІ йтынха йгІащтІыхІхныс пшдзата,</se>
-    <se lang="russian" variant_id="1">Он оставил нам свое наследие, чтобы мы вспоминали о нем,</se>
+    <se lang="aba" variant_id="0">ЙгІахъйымтІыхныс йгІвылакІгьи хъигІватІ.</se>
+    <se lang="rus" variant_id="1">Он оставил нам свое наследие, чтобы мы вспоминали о нем,</se>
   </para>
   <para id="94">
-    <se lang="abaza" variant_id="0">ЙгІахъйымтІыхныс йгІвылакІгьи хъигІватІ.</se>
-    <se lang="russian" variant_id="1">Чтобы больше не открыть, закрыл он свои глаза.</se>
+    <se lang="aba" variant_id="0">Йара ужвыгьи Лермонтов сйызхъвыцитІ,</se>
+    <se lang="rus" variant_id="1">Чтобы больше не открыть, закрыл он свои глаза.</se>
   </para>
   <para id="95">
-    <se lang="abaza" variant_id="0">Йара ужвыгьи Лермонтов сйызхъвыцитІ,</se>
-    <se lang="russian" variant_id="1">До сих пор о Лермонтове размышляю,</se>
+    <se lang="aba" variant_id="0">Ауи йгІвыраква джьасщитІ уыжвгьи.</se>
+    <se lang="rus" variant_id="1">До сих пор о Лермонтове размышляю,</se>
   </para>
   <para id="96">
-    <se lang="abaza" variant_id="0">Ауи йгІвыраква джьасщитІ уыжвгьи.</se>
-    <se lang="russian" variant_id="1">До сих пор его творения удивляют меня.</se>
+    <se lang="aba" variant_id="0">Са йызнымкІва ауи йуыс сырхъвыхитІ,</se>
+    <se lang="rus" variant_id="1">До сих пор его творения удивляют меня.</se>
   </para>
   <para id="97">
-    <se lang="abaza" variant_id="0">Са йызнымкІва ауи йуыс сырхъвыхитІ,</se>
-    <se lang="russian" variant_id="1">Не один раз думал я о его делах,</se>
-  </para>
-  <para id="98">
-    <se lang="abaza" variant_id="0">Са йгьсыргІващум ауи йхатІ зынгьи.</se>
-    <se lang="russian" variant_id="1">Я не перепутаю его почерк никогда и ни с чем.</se>
+    <se lang="aba" variant_id="0">Са йгьсыргІващум ауи йхатІ зынгьи.</se>
+    <se lang="rus" variant_id="1">Не один раз думал я о его делах,</se>
   </para>
 </body>
 </html>
