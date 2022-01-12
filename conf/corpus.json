@@ -1,5 +1,6 @@
 {
-  "corpus_name": "abaza_rus_corpus",
+  "corpus_name": "abaza_rus_parallel",
+  "citation": "Anna Sorokina. Abaza-Russian Parallel corpus. Moscow: School of Linguistics, HSE University.",
   "input_format": "json-gzip",
   "debug": false,
   "media": false,
@@ -10,10 +11,11 @@
   "max_words_in_sentence": 40,
   "query_timeout": 60,
   "viewable_meta": [
-    "filename",
     "title",
+    "title_abq",
     "author",
     "genre",
+    "subgenre",
     "year"
   ],
   "sentence_meta": [  ],
@@ -29,8 +31,16 @@
         {"type": "input_text", "name": "genre", "placeholder": "Genre"},
         {"type": "option", "name": "genre", "value": "fiction", "text": "fiction"},
         {"type": "option", "name": "genre", "value": "nonfiction", "text": "non-fiction"},
+        {"type": "option", "name": "genre", "value": "poetry", "text": "poetry"}
+      ]
+      [
+        {"type": "input_text", "name": "subgenre", "placeholder": "Subgenre"},
+
+        {"type": "option", "name": "genre", "value": "children's", "text": "children's"}
+        {"type": "option", "name": "genre", "value": "essay", "text": "essay"},
+        {"type": "option", "name": "genre", "value": "play", "text": "play"},
         {"type": "option", "name": "genre", "value": "press", "text": "press"},
-        {"type": "option", "name": "genre", "value": "blog", "text": "blog"}
+        {"type": "option", "name": "genre", "value": "story", "text": "story"},
       ]
     ],
     "stat_options": [
@@ -38,15 +48,17 @@
   },
   "word_fields":
   [
-    "trans_ru",
-    "trans_en"
+    "trans_ru"
   ],
   "languages": ["abaza", "russian"],
   "transliterations": [],
   "input_methods": ["normal", "strict"],
   "interface_languages": {"en": "English", "ru": "Russian"},
+  "default_locale": "ru",
   "all_language_search_enabled": true,
   "gloss_search_enabled": false,
+  "word_search_display_gr": false,
   "ambiguous_analyses": false,
-  "lang_props": {"abaza": {}, "russian": {}}
+  "lang_props": {"abaza": {}, "russian": {}}, 
+  "sample_size": 1
 }
