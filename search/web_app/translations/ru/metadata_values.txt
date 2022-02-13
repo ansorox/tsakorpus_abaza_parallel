@@ -1,5 +1,6 @@
 F	Ж
 M	М
+children's	детская литература
 complete	полностью, но с омонимией
 dialogue	диалог
 essay	эссе

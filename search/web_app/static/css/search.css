@@ -227,10 +227,12 @@
 }
 
 .query_slide {
-	background-image: url("/static/img/back-min4.png");
+	background-image: url("/static/img/backmin.png");
+	background-color: #191F2E;
     background-size: cover;
     background-position: 37% 8%;
     padding-top: 20px;
+
 }
 
 .query_word_header {
@@ -291,7 +293,7 @@
 .bi-arrows-fullscreen:hover {
 	background-color: #20A030;
 	color: white;
-	animation: blinkExpand 1s;
+	/*animation: blinkExpand 1s;*/
 }
 
 .bi-clipboard-check:hover {
@@ -668,7 +670,7 @@ label[for=precise] {
 
 #show_help {
 	color: darkorange;
-	animation: blinkHelp 1.5s;
+	/*animation: blinkHelp 1.5s;*/
 }
 
 #cite_corpus {

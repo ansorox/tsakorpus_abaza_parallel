@@ -1,6 +1,6 @@
 {
   "corpus_name": "abaza_rus_parallel",
-  "citation": "Anna Sorokina. Abaza-Russian Parallel corpus. Moscow: School of Linguistics, HSE University.",
+  "citation": "Anna Sorokina. Abaza-Russian Parallel Corpus. 2019. Moscow: School of Linguistics, HSE University. (Available online at https://linghub.ru/abaza_rus_corpus/search)",
   "input_format": "json-gzip",
   "debug": false,
   "media": false,
@@ -25,7 +25,7 @@
         {"type": "input_text", "name": "author", "placeholder": "Author"},
         {"type": "input_text", "name": "title", "placeholder": "Title"},
         {"type": "separator"},
-        {"type": "input_number", "name": "Year", "placeholder": "Year"}
+        {"type": "input_number", "name": "year", "placeholder": "Year"}
       ],
       [
         {"type": "input_text", "name": "genre", "placeholder": "Genre"},
@@ -35,24 +35,21 @@
       ],
       [
         {"type": "input_text", "name": "subgenre", "placeholder": "Subgenre"},
-        {"type": "option", "name": "genre", "value": "children's", "text": "children's"},
-        {"type": "option", "name": "genre", "value": "essay", "text": "essay"},
-        {"type": "option", "name": "genre", "value": "play", "text": "play"},
-        {"type": "option", "name": "genre", "value": "press", "text": "press"},
-        {"type": "option", "name": "genre", "value": "story", "text": "story"}
+        {"type": "option", "name": "subgenre", "value": "children's", "text": "children's"},
+        {"type": "option", "name": "subgenre", "value": "essay", "text": "essay"},
+        {"type": "option", "name": "subgenre", "value": "play", "text": "play"},
+        {"type": "option", "name": "subgenre", "value": "press", "text": "press"},
+        {"type": "option", "name": "subgenre", "value": "story", "text": "story"}
       ]
     ],
     "stat_options": [
     ]
   },
-  "word_fields":
-  [
-    "trans_ru"
-  ],
+  "word_fields": [],
   "languages": ["abaza", "russian"],
   "transliterations": [],
   "input_methods": ["normal", "strict"],
-  "interface_languages": {"en": "English", "ru": "Russian"},
+  "interface_languages": {"ru": "Russian"},
   "default_locale": "ru",
   "all_language_search_enabled": true,
   "gloss_search_enabled": false,

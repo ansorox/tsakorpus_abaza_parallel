@@ -55,10 +55,12 @@ sphere	сфера функционирования
 style	стиль
 subdialect	говор
 subject	предмет
+subgenre	поджанр
 tagging	разметка
 title	заголовок
 title_en	заголовок (английский)
 title_ru	заголовок (русский)
+title_abq	заголовок (абазинский)
 topic	тема
 translator	переводчик
 type	тип

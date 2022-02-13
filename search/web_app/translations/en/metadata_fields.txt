@@ -55,10 +55,12 @@ sphere	Sphere
 style	Style
 subdialect	Subdialect
 subject	Subject
+subgenre	Subgenre
 tagging	Tagging
 title	Title
 title_en	Title in English
 title_ru	Title in Russian
+title_abq	Title in Abaza
 topic	Topic
 translator	Translator
 type	Type
